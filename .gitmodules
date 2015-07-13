@@ -1,0 +1,12 @@
+[submodule "ResearchKit"]
+	path = ResearchKit
+	url = git@github.com:ResearchKit/ResearchKit.git
+	branch = stable
+[submodule "BridgeSDK"]
+	path = BridgeSDK
+	url = git@github.com:Sage-Bionetworks/Bridge-iOS-SDK.git
+	branch = master
+[submodule "AppCore"]
+	path = AppCore
+	url = git@github.com:ResearchKit/AppCore.git
+	branch = master
