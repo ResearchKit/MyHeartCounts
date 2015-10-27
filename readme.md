@@ -11,7 +11,7 @@ Building the App
 First, check out the source, including all the dependencies:
 
 ```
-git clone --recurse-submodules git@github.com:ResearchKit/CardioHealth.git
+git clone --recurse-submodules git@github.com:ResearchKit/MyHeartCounts.git
 ```
 
 ###Building it
