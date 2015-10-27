@@ -30,7 +30,7 @@ project. See the [AppCore repository](https://github.com/researchkit/AppCore) fo
 License
 =======
 
-The source in the CardioHealth repository is made available under the
+The source in the MyHeartCounts repository is made available under the
 following license unless another license is explicitly identified:
 
 ```
